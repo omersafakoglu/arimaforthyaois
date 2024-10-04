@@ -21,7 +21,8 @@ To run the project, follow these steps:
    git clone https://github.com/omersafakoglu/arimaforthyaois.git
    
 2.Install required libraries:
-    ```bash
+     ```bash
+     
     pip install -r requirements.txt
     
 3.Open the Jupyter Notebook and execute the code.
