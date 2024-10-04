@@ -44,7 +44,7 @@ To run the project, follow these steps:
 
 ## Dataset
 
-### This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance
+This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance
 
 ## Model Development
 
