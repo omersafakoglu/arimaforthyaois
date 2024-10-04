@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/df9e3f18-addb-42be-b05b-65476bcc268b)# ARIMA Model for THYAO.IS Stock Prediction
+![image](https://github.com/user-attachments/assets/df9e3f18-addb-42be-b05b-65476bcc268b) 
+# ARIMA Model for THYAO.IS Stock Prediction
 
 ## Project Overview
 
