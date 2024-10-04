@@ -34,9 +34,13 @@ Python 3.6 or higher
 statsmodels
 
 pandas
+
 numpy
+
 matplotlib
+
 scikit-learn
+
 
 ## Dataset
 
