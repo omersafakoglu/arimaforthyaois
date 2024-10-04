@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict THYAO.IS stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. By analyzing time series data, the project identifies trends and seasonality to forecast future stock prices.
+### This project aims to predict THYAO.IS stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. By analyzing time series data, the project identifies trends and seasonality to forecast future stock prices.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ To run the project, follow these steps:
    ```bash
    
    git clone https://github.com/omersafakoglu/arimaforthyaois.git
-1. Clone this repository:  
+2. Install required libraries:
    ```bash
    
    pip install -r requirements.txt
@@ -29,22 +29,22 @@ To run the project, follow these steps:
 
 ## Requirements
 
-Python 3.6 or higher
+### Python 3.6 or higher
 
-statsmodels
+### statsmodels
 
-pandas
+### pandas
 
-numpy
+### numpy
 
-matplotlib
+### matplotlib
 
-scikit-learn
+### scikit-learn
 
 
 ## Dataset
 
-This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance
+### This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance
 
 ## Model Development
 
