@@ -18,11 +18,13 @@ This project aims to predict THYAO.IS stock prices using the ARIMA (AutoRegressi
 To run the project, follow these steps:
 1. Clone this repository:  
    ```bash
+   
    git clone https://github.com/omersafakoglu/arimaforthyaois.git
    ```
 2.Install required libraries:
     ```bash  
-pip install -r requirements.txt
+    
+    pip install -r requirements.txt
      ```    
 3.Open the Jupyter Notebook and execute the code.
 
