@@ -61,7 +61,7 @@ The ARIMA model is developed through the following steps:
 
 ## Results
 
-# Model performance is evaluated using the following metrics:
+### Model performance is evaluated using the following metrics:
 
 -Mean Squared Error (MSE)
 
