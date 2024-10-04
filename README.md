@@ -30,7 +30,9 @@ To run the project, follow these steps:
 ## Requirements
 
 Python 3.6 or higher
+
 statsmodels
+
 pandas
 numpy
 matplotlib
