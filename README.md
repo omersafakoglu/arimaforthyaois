@@ -1,4 +1,4 @@
-# ARIMA Model for THYAO.IS Stock Prediction
+![image](https://github.com/user-attachments/assets/df9e3f18-addb-42be-b05b-65476bcc268b)# ARIMA Model for THYAO.IS Stock Prediction
 
 ## Project Overview
 
@@ -68,4 +68,14 @@ The ARIMA model is developed through the following steps:
 -Symmetric Mean Absolute Percentage Error (SMAPE)
 
 -Results indicate the accuracy of the predictions and the overall performance of the model.
+
+
+## Prediction Graph
+
+
+![Unknown](https://github.com/user-attachments/assets/e7bbc839-982c-414e-84ca-f2abd87dab1f)
+
+
+
+The graph above illustrates the predicted stock prices against the actual values, showcasing the model's performance.
 
