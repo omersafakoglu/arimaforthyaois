@@ -15,9 +15,33 @@ This project aims to predict THYAO.IS stock prices using the ARIMA (AutoRegressi
 
 ## Getting Started
 
-To run the project, follow these steps:
+## Requirements
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/omersafakoglu/arimaforthyaois.git
+Python 3.6 or higher
+statsmodels
+pandas
+numpy
+matplotlib
+scikit-learn
 
+## Dataset
+
+This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance or another reliable source.
+
+## Model Development
+
+The ARIMA model is developed through the following steps:
+
+Data preprocessing.
+Determining model parameters (p, d, q).
+Training the model.
+Making predictions.
+
+
+## Results
+
+Model performance is evaluated using the following metrics:
+
+Mean Squared Error (MSE)
+Symmetric Mean Absolute Percentage Error (SMAPE)
+Results indicate the accuracy of the predictions and the overall performance of the model.
