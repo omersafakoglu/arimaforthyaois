@@ -61,11 +61,11 @@ The ARIMA model is developed through the following steps:
 
 ## Results
 
-Model performance is evaluated using the following metrics:
+# Model performance is evaluated using the following metrics:
 
-Mean Squared Error (MSE)
+-Mean Squared Error (MSE)
 
-Symmetric Mean Absolute Percentage Error (SMAPE)
+-Symmetric Mean Absolute Percentage Error (SMAPE)
 
-Results indicate the accuracy of the predictions and the overall performance of the model.
+-Results indicate the accuracy of the predictions and the overall performance of the model.
 
