@@ -44,16 +44,19 @@ scikit-learn
 
 ## Dataset
 
-This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance or another reliable source.
+This project utilizes historical price data for the THYAO.IS stock. Data can be downloaded from Yahoo Finance
 
 ## Model Development
 
 The ARIMA model is developed through the following steps:
 
-Data preprocessing.
-Determining model parameters (p, d, q).
-Training the model.
-Making predictions.
+1.Data preprocessing.
+
+2.Determining model parameters (p, d, q).
+
+3.Training the model.
+
+4.Making predictions.
 
 
 ## Results
@@ -61,5 +64,8 @@ Making predictions.
 Model performance is evaluated using the following metrics:
 
 Mean Squared Error (MSE)
+
 Symmetric Mean Absolute Percentage Error (SMAPE)
+
 Results indicate the accuracy of the predictions and the overall performance of the model.
+
